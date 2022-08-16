@@ -1,4 +1,5 @@
-# HI-I-m-Nathaniel-
+# Hi,I,m Nathaniel! :wave:
+
 Hi, I'm Nathaniel! :wave:
 
 Web developer, Software engineer and project manager.
@@ -12,4 +13,16 @@ seedling I’m currently working on Synchr – JavaScript programming language W
 
 https://www.twitter.com/ocean-exe
 
+
+iOS developer, medical doctor and project manager.
+seedling I’m currently working on Qwifty – Swift programming language Quiz App
+
+telescope My goal is to turn my passion for CS into a career in Tech
+
+zap My interests: software localization, creative writing, following CS and space news, family travels, AI, cybernetics
+
+ :mailbox: Feel free to reach me:
+
+:Email:
+. :Twitter:  nathaniel_dev :Linkedin: aleksandr-mor
 
